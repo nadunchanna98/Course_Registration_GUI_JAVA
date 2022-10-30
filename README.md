@@ -9,6 +9,6 @@ Included a submit and reset button.
 
 Student name and student registration number must be entered for the submission
 
-Desplay all details after submit
+Display all details after submit
 
 Error handling included.
