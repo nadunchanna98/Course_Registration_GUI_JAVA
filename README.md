@@ -1,4 +1,4 @@
-# Course_Registration_GUI_JAVA
+# Course_Registration_Form_JAVA_GUI
 
 java Event-driven programming using IntelliJ IDEA 
 
